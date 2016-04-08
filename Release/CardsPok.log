@@ -1,4 +1,4 @@
-﻿La génération a démarré 08/04/2016 20:25:53.
+﻿La génération a démarré 08/04/2016 22:39:25.
      1>Projet "C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\CardsPok\CardsPok.vcxproj" sur le nœud 2 (Build cible(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp
@@ -130,13 +130,11 @@
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\Release\CardsPok.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\Release\CardsPok.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\Release\CardsPok.lib" /MACHINE:X86 /SAFESEH Release\cardspok2.obj
          Génération de code en cours
-         1 of 751 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
-           0 functions were new in current compilation
-           0 functions had inline decision re-evaluated but remain unchanged
+         All 751 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
          Fin de la génération du code
          CardsPok.vcxproj -> C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\Release\CardsPok.exe
      1>Génération du projet "C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\CardsPok\CardsPok.vcxproj" terminée (Build cible(s)).
 
 La génération a réussi.
 
-Temps écoulé 00:00:11.51
+Temps écoulé 00:00:12.95
