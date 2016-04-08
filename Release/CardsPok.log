@@ -1,0 +1,142 @@
+﻿La génération a démarré 08/04/2016 20:25:53.
+     1>Projet "C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\CardsPok\CardsPok.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp
+         cardspok2.cpp
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(405): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(487): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(491): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(496): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(500): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(504): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(509): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(885): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(910): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(992): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(1063): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(1144): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(1268): warning C4018: '<' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(1774): warning C4553: '==' : opérateur sans effet ; souhaitiez-vous '=' ?
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(1801): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(1972): warning C4018: '<' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(1978): warning C4018: '<' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2131): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2135): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2147): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2151): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2155): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2160): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2212): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2230): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2233): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2238): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2244): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2252): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2256): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2261): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2266): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2293): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2298): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2302): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2307): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2312): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2321): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2325): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2330): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2341): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2345): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2351): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2364): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2379): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2383): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2392): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2395): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2401): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2410): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2414): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2421): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2424): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2429): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2434): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2438): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2481): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2504): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2509): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2524): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2556): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2567): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2580): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2588): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2595): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2602): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2614): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2644): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2648): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2676): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2681): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2696): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2708): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2713): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2722): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2735): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2763): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2765): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2769): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2775): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2787): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2803): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2807): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2822): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2825): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2829): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2833): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2837): warning C4018: '<' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2842): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2850): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2854): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2858): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(2862): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3041): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3045): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3050): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3062): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3092): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3097): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3117): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3122): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3126): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3139): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3154): warning C4018: '>' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3158): warning C4018: '<=' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3166): warning C4018: '<' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3219): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3384): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3406): warning C4018: '<' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3417): warning C4554: '|' : vérifiez la priorité des opérateurs comme cause possible d'erreur ; utilisez des parenthèses pour rendre plus claires les priorités
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3570): warning C4018: '<' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3589): warning C4018: '<' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3625): warning C4018: '<' : incompatibilité signed/unsigned
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3674): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3675): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3676): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3677): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3678): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3679): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(3680): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(294): warning C4101: 'StillInGame' : variable locale non référencée
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(269): warning C4101: 'IndexesAllInsorted' : variable locale non référencée
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(268): warning C4101: 'PIGnotAllIn' : variable locale non référencée
+     1>..\..\..\..\..\Desktop\Cardspok\cardspok2.cpp(267): warning C4101: 'PrimaryPot' : variable locale non référencée
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\Release\CardsPok.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\Release\CardsPok.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\Release\CardsPok.lib" /MACHINE:X86 /SAFESEH Release\cardspok2.obj
+         Génération de code en cours
+         1 of 751 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Fin de la génération du code
+         CardsPok.vcxproj -> C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\Release\CardsPok.exe
+     1>Génération du projet "C:\Users\Ludo\Documents\Visual Studio 2015\Projects\CardsPok\CardsPok\CardsPok.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:11.51
